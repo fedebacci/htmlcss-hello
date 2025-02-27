@@ -9,7 +9,7 @@ body {
     border: 0;
     margin: 0;
 
-    background: rgb(108, 8, 8);
+    background: rgb(95, 5, 5);
     color: #fff;
 
     font-family: sans-serif;
@@ -22,6 +22,22 @@ h1 {
 p {
     font-size: 1rem;
 }
+
+button#saluta {
+    font-size: 1.5rem;
+
+    color: inherit;
+
+    padding: .5em 1em;
+    border: 2px solid;
+    border-radius: .25em;
+    
+    background: transparent;
+}
+
+
+
+
 
 @media screen and (min-width: 780px) {
     h1 {

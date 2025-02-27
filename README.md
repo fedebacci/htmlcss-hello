@@ -14,3 +14,7 @@ Buon lavoro!
 Test di creazione del file README.md </br>
 Test di creazione di un file da ignorare </br>
 Test di creazione di una cartella per vedere come la creazione di una nuova cartella viene gestita in fase di commit e di push (e con la scusa stilizzazione minima della pagina, che mi fa proprio tristezza 🤣) </br>
+
+### Aggiunte secondarie
+Siccome mi avanza tempo aggiungo un pulsante Just For Fun. </br>
+**Se a rivedere l'esercizio fosse Samuel** mi dispiace, volevo mettere un indovinello ma non ne conosco quasi nessuno ahahah
